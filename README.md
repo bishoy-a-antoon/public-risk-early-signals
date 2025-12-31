@@ -8,7 +8,7 @@ This repository reflects ongoing work and iterative learning rather than finaliz
 ---
 ## Content
 1. Literature review notes
-  1.1. Fear of sexual assault on campuses: [Strangers in the night](notes/strangers-in-the-night.md)
+  1.1. Fear of sexual assault on campuses: [Strangers in the night](research/notes/strangers-in-the-night.md)
   1.2.
   1.3.
 
