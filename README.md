@@ -12,7 +12,7 @@ This repository reflects ongoing work and iterative learning rather than finaliz
 
       **Note**: [Strangers in the night](research/notes/strangers-in-the-night.md).
 
-  1.       
+  1. 
 
   1.
 
